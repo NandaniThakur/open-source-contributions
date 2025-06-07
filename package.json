@@ -1,0 +1,12 @@
+{
+  "name": "open-source-contributions",
+  "version": "1.0.0",
+  "description": "Open source contributions guide",
+  "main": "generate-readme.js",
+ "scripts": {
+    "generate": "node generate-readme.js"
+  },
+  "keywords": [],
+  "author": "Nandani",
+  "license": "ISC"
+}

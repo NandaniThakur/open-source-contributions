@@ -1,0 +1,43 @@
+[
+   {
+    "project": "architecture-as-code",
+    "pr": "#431",
+    "url": "https://github.com/kbariotis/architecture-as-code/pull/431",
+    "description": "Added a GitHub Action to sync any changes to the calm/drafts folder in the repo to /drafts",
+    "status": "merged",
+    "date": "2024-10-02"
+  },
+  {
+    "project": "national-paediatric-diabetes-audit",
+    "pr": "#72",
+    "url": "https://github.com/rcpch/national-paediatric-diabetes-audit/pull/72",
+    "description": "main branch to add rules for the protection of min branch. and created .github/workflows folders inside that created pytest.yml. in this file i have added code which will will trigger on every push or pull request to the main branch, install dependencies, and run Pytest",
+    "status": "merged",
+    "date": "2024-05-29"
+  },
+  {
+    "project": "cli-surf",
+    "pr": "#30",
+    "url": "https://github.com/ryansurf/cli-surf/pull/30",
+    "description": "adds a dark, light and default toggle to the project",
+    "status": "merged",
+    "date": "2024-05-29"
+  },
+  {
+    "project": "burr",
+    "pr": "#215",
+    "url": "https://github.com/apache/burr/pull/215",
+    "description": "new MongoDB persister to the project, allowing state data to be saved and loaded from a MongoDB database.",
+    "status": "merged",
+    "date": "2024-05-30"
+  },
+  {
+    "project": "cli-surf",
+    "pr": "#30",
+    "url": "https://github.com/ryansurf/cli-surf/pull/30",
+    "description": "adds a dark, light and default toggle to the project",
+    "status": "merged",
+    "date": "2024-05-29"
+  }
+  
+]
